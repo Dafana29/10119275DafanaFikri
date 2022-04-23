@@ -10,6 +10,13 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
+/** Nama : Dafana Fikri */
+
+/** NIM : 10119275 */
+
+/** Kelas : IF-7 */
+
+/** Tanggal pengerjaan : 23-04-2022 */
 
 public class SplashScreen10119275 extends AppCompatActivity {
 
